@@ -21,7 +21,7 @@
 
 ## Environment Variables
 
-To run this project, you will need to add environment variables to your directory. You can create a .env file in the root directory and add the following variables. Look at the .env.example file for reference.
+To run this project, you will need to add environment variables to your directory. You can create a .env file in the root directory and add the following variables. Look at the .env.example file for reference. (server/env.example)
 
 ## Tech Stack:
 
